@@ -1,0 +1,1 @@
+def square_root(num): return int(num ** 0.5)
