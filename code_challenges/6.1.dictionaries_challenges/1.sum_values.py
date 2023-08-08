@@ -1,0 +1,1 @@
+def sum_values(my_dictionary): return sum(my_dictionary.values())
