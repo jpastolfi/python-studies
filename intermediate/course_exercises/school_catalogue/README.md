@@ -18,7 +18,7 @@ Includes everything in the School class, plus one additional property
 ###### Properties: sportsTeams (list of strings, like ['basketball', 'tennis'])
 Tasks
 0/16 Complete
-Mark the tasks as complete by checking them off
+
 Create the School Class
 1.
 Let’s start by making a parent class for Primary, Middle, and High classes.
